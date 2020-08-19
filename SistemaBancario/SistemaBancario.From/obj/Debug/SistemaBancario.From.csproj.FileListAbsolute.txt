@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\SistemaBancario\SistemaBancario.From\bin\Debug\SistemaBancario.From.exe.config
+C:\Users\USUARIO\source\repos\SistemaBancario\SistemaBancario.From\bin\Debug\SistemaBancario.From.exe
+C:\Users\USUARIO\source\repos\SistemaBancario\SistemaBancario.From\bin\Debug\SistemaBancario.From.pdb
+C:\Users\USUARIO\source\repos\SistemaBancario\SistemaBancario.From\obj\Debug\SistemaBancario.From.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\SistemaBancario\SistemaBancario.From\obj\Debug\SistemaBancario.From.Form1.resources
+C:\Users\USUARIO\source\repos\SistemaBancario\SistemaBancario.From\obj\Debug\SistemaBancario.From.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\SistemaBancario\SistemaBancario.From\obj\Debug\SistemaBancario.From.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\SistemaBancario\SistemaBancario.From\obj\Debug\SistemaBancario.From.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\SistemaBancario\SistemaBancario.From\obj\Debug\SistemaBancario.From.exe
+C:\Users\USUARIO\source\repos\SistemaBancario\SistemaBancario.From\obj\Debug\SistemaBancario.From.pdb
